@@ -1,0 +1,59 @@
+.main-div{
+
+background-color: #e5e5e5;
+height:100%;
+width:35%;
+margin: 0 auto;
+   
+}
+
+.header{
+
+background-color: white;
+font-family:Roboto;
+text-align: center;
+color:#78383e;
+padding:1px;
+
+}
+
+.row {
+
+font-family:Roboto;
+color:#78383e;
+padding: 20px;
+
+}
+
+.column {
+
+float: left;
+width: 50%;
+padding-bottom:25px;
+
+}
+
+button{
+
+background-color: #555555;
+color:white;
+width:130px;
+border-radius: 4px;
+border: none;
+padding: 7px 40px;
+
+}
+
+.button-div{
+text-align: center;
+}
+
+.date-text{
+
+width:220px
+
+}
+
+body{
+background-color: #aaabaa;
+}
